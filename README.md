@@ -1,11 +1,10 @@
-
-
 <h1 align='center'>
   Hi there 👋 I'm Nathan. 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Aguada, Puerto Rico.
+  A mobile and amateur developer from Aguada, Puerto Rico. <BR>
+  Just a rookie learning to code
 </p>
 
 
