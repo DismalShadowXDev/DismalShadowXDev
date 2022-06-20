@@ -1,12 +1,10 @@
 <h1 align='center'>
   Hi there 👋 I'm Nathan. 👨‍💻
 </h1>
-
 <p align='center'>
   A mobile and amateur developer from Aguada, Puerto Rico. <BR>
   Just a rookie learning to code
 </p>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/EdwinMendezJr/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   <a href="https://discord.gg/swNqsnrT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -14,7 +12,6 @@
   <a href="https://steamcommunity.com/id/dismalshadow/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a> 
 </p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -24,6 +21,12 @@
   <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-red?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge&logoColor=white" />
+</p>
+<p align='center'>
+  📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX42/DismalShadowX42"></a> hipsters and nerds have come here o/
 </p>
 <!--
 **DismalShadowX42/DismalShadowX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
