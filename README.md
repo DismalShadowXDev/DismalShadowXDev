@@ -14,7 +14,8 @@
     </a> 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"><br/>
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX42" /></a>
 </p>
 
 <p align='center'>
@@ -33,7 +34,13 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX42/DismalShadowX42"></a> hipsters and nerds have come here o/
 </p>
-    
+
+<details>
+<summary>📃 My Environment</summary><br/>
+
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 <!--
 **DismalShadowX42/DismalShadowX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
