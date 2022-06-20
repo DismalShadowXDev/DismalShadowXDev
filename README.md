@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-red?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge&logoColor=white" />
 </p>
-
+<!--
 **DismalShadowX42/DismalShadowX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
