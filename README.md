@@ -6,12 +6,12 @@
   Just a rookie learning to code
 </p>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/EdwinMendezJr/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <a href="https://www.linkedin.com/in/EdwinMendezJr/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://discord.gg/swNqsnrT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://www.twitch.tv/dismalshadowx42"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   <a href="https://steamcommunity.com/id/dismalshadow/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     <a herf=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a> 
+    </a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"><br/></a>
@@ -35,7 +35,7 @@
 </p>
 
 <details>
-<summary>📃 My Environment</summary><br/>
+<summary>📃 My Development Environment</summary><br/>
 
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
