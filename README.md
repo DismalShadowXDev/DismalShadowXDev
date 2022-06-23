@@ -1,8 +1,12 @@
-<h1 align='center'>
-  Hi there 👋 I'm Nathan. 👨‍💻
-</h1>
+<h1 align='center'>Hi there 👋 I'm Nathan. 👨‍💻</h1>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Aguada.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
+</p>
+
 <p align='center'>
-  A mobile and amateur developer from Aguada, Puerto Rico. <BR>
+  A mobile and amateur developer from Aguada, Puerto Rico.<br>
   Just a rookie learning to code
 </p>
 <p align='center'>
@@ -16,7 +20,15 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"><br/></a>
 </p>
-
+    
+<!-- Updated Github Stats -->
+## 📊 Github Statistics
+<br/>
+  
+<!--&theme=buefy&bg_color=0D1117"/></a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=false" /></a>
+<br /> 
+  
 <p align='center'>
   💻 My workstation<br/><br/>
   <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
