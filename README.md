@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Mobile+and+Web+App+Developer.;Just+an+amateur+learning+to+code.;Freelancer+from+Aguada,PR.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
+  <a href="https://github.com/DismalshadowXDev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Mobile+and+Web+App+Developer.;Just+an+amateur+learning+to+code.;Freelancer+from+Aguada,PR.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
 </p>
 
 <!--
@@ -24,10 +24,10 @@
 ## 📊 Github Statistics<br/>
 <p align='center'>  
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
-<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a><br />
+<a href="https://github.com/DismalShadowXDev/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a><br />
 
 <p align='center'>
-<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
+<a href="https://github.com/DismalShadowXDev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
 
 ## 💻 My workstation<br/>
   <p align='center'>
@@ -43,7 +43,7 @@
   📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here
+  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowXDev/DismalShadowXDev"></a> lurkers and nerds have come here
 </p>
 
 <details>
@@ -65,7 +65,7 @@ https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Bro
  
 </details>
 <!--
-**DismalShadowX/DismalShadowX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DismalShadowXDev/DismalShadowXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
