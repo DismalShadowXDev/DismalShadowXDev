@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Aguada.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
+  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Mobile+and+Web+App+Developer.;Just+an+amateur+learning+to+code.;Freelancer+from+Aguada,PR.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
 </p>
 
 <!--
@@ -21,17 +21,16 @@
 </p>
     
 <!-- Updated Github Stats -->
-## 📊 Github Statistics
-<br/>
+## 📊 Github Statistics<br/>
 <p align='center'>  
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a>
-  <br />
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
+<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a><br />
 
 <p align='center'>
-  💻 My workstation<br/><br/>
+<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
+
+## 💻 My workstation<br/>
+  <p align='center'>
   <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-red?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge&logoColor=white" /><br/>
@@ -53,6 +52,18 @@
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+</details>
+
+<details>
+<summary>📃 Placeholder</summary><br/>
+
+https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white
+
+ 
+</details>
 <!--
 **DismalShadowX/DismalShadowX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
