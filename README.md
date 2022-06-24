@@ -44,7 +44,7 @@
   📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here
 </p>
 
 <details>
