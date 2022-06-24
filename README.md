@@ -45,7 +45,7 @@
   📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX42/DismalShadowX42"></a> lurkers and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here o/
 </p>
 
 <details>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 <!--
-**DismalShadowX42/DismalShadowX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DismalShadowX/DismalShadowX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
