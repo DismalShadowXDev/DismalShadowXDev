@@ -5,10 +5,12 @@
   <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Aguada.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
 </p>
 
+<!--
 <p align='center'>
   A mobile and amateur developer from Aguada, Puerto Rico.<br>
   Just a rookie learning to code
 </p>
+-->
 <p align='center'>
   <a href="https://www.linkedin.com/in/EdwinMendezJr/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://discord.gg/swNqsnrT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -17,17 +19,17 @@
     <a herf=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX42&show_icons=true&count_private=true&theme=dark" width="350"><br/></a>
-</p>
     
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics
 <br/>
-  
+<p align='center'>  
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a>
+  <br />
+<p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=false" /></a>
-<br /> 
+</p>  
   
 <p align='center'>
   💻 My workstation<br/><br/>
