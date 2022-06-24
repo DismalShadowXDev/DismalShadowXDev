@@ -28,9 +28,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a>
   <br />
 <p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=false" /></a>
-</p>  
-  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
+
 <p align='center'>
   💻 My workstation<br/><br/>
   <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
@@ -45,7 +44,7 @@
   📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here
 </p>
 
 <details>
